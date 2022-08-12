@@ -1,0 +1,14 @@
+.sasa{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    color: #318A96;
+    background-color:#D9D9D9;
+    height:8vw ;
+    
+}
+.per{
+    position:absolute;
+    top:25px;
+    left:1000px ;
